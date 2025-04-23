@@ -33,7 +33,8 @@
       <p><img src="./assets/svg/ing.svg" /></p>
       <p>
         <a href="https://pages.cloudflare.com" target="_blank" rel="noopener noreferrer"><img src="./assets/svg/framework.svg" /></a>
-        <a href="https://www.cloudflare.com/zh-cn/application-services/products/cdn/" target="_blank" rel="noopener noreferrer"><img src="./assets/svg/cdn.svg" /></a>
+                <a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer"><img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" /></a>
+<a href="https://www.cloudflare.com/zh-cn/application-services/products/cdn/" target="_blank" rel="noopener noreferrer"><img src="./assets/svg/cdn.svg" /></a>
         <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img src="./assets/svg/web.svg" /></a>
         <a href="https://api.vvhan.com" target="_blank"><img src="./assets/svg/surppot.svg" /></a>
       </p>
